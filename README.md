@@ -2,7 +2,7 @@
 Convert your .jpeg pics to ascii art in text format
 Convertit les images en .jpeg en ascii art au format texte
 
-# ENGLISH
+## ENGLISH
 # How it works ?
 Asciiart-generator works with the module Pillow, in Python.
 
